@@ -1,7 +1,7 @@
 # lightspeed
 lightspeed using light.js DeltaVerse at the speed of light
-#dependencies obviously include yarn
-<a href="https://classic.yarnpkg.com/en/docs/getting-started">yarn point of departure</a>
+#dependencies obviously include
+<a href="https://classic.yarnpkg.com/en/docs/getting-started">yarn</a>
 
 yarn install rxjs @parity/light.js
 
